@@ -102,3 +102,9 @@ The final chart shows the distribution of personalities by hobby.
 ![personality-hobby-barplot.png](charts/personality-hobby-barplot.png)
 
 One interesting observation is that only the peppy personality includes at least one villager from every hobby. All other personalities have villagers with only four or five of the six hobbies.
+
+---
+## Credits
+
+**Author:** Caleb Picone (https://github.com/calebpicone)
+Images used were found on https://animalcrossing.fandom.com/wiki/Animal_Crossing_Wiki
