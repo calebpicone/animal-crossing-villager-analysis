@@ -10,7 +10,13 @@
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-blueviolet?style=flat-square)
 ![Data Science](https://img.shields.io/badge/Data_Science-greenyellow?style=flat-square)
 
-![Bob](villager sprites/Bob_NH.png) ![Ione](villager sprites/Ione_NH.png) ![Ketchup](villager sprites/Ketchup_NH.png) ![Lolly](villager sprites/Lolly_NH.png) ![Murphy](villager sprites/Murphy_NH.png) ![Raymond](villager sprites/Raymond_NH_1.png)
+<p align="center">
+  <img src="villager-sprites/NH-VillagerFace-Bob.png" alt="Bob" width="80" />
+  <img src="villager-sprites/NH-VillagerFace-Ketchup.png" alt="Ketchup" width="80" />
+  <img src="villager-sprites/NH-VillagerFace-Lolly.png" alt="Lolly" width="80" />
+  <img src="villager-sprites/NH-VillagerFace-Murphy.png" alt="Murphy" width="80" />
+  <img src="villager-sprites/NH-VillagerFace-Raymond.png" alt="Raymond" width="80" />
+</p
 
 This is a simple population analysis project that examines specific aspects of the villagers found in _Animal Crossing: New Horizons_. The population includes any base-game villagers that a player can receive.
 This excludes collaboration villagers, such as the Sanrio villagers, as well as upcoming _The Legend of Zelda_ and _Splatoon_ villagers. Special visitors and shopkeeping villagers are also excluded (so no Tom Nook, Able Sisters, Flick, C.J., etc.).
@@ -18,7 +24,7 @@ This excludes collaboration villagers, such as the Sanrio villagers, as well as 
 The CSV file used was converted from an Excel sheet I created of the different villagers. All villager information was sourced from the [ACNH Travel Guide app](https://apps.apple.com/us/app/acnh-travel-guide/id1502818559) by Jeffrey.
 The collected data includes villagers' names, species, genders, personalities, and hobbies. A copy of the CSV file is included in this repository.
 
-So without further ado, let's look at some charts!
+So without further ado, let's look at some charts! <img src="villager-sprites/bob-dancing.gif" alt="Bob Dancing" width="80" />
 
 ---
 ## Visualizations
