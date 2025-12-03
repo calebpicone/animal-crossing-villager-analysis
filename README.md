@@ -10,6 +10,8 @@
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-blueviolet?style=flat-square)
 ![Data Science](https://img.shields.io/badge/Data_Science-greenyellow?style=flat-square)
 
+![Bob](villager sprites/Bob_NH.png) ![Ione](villager sprites/Ione_NH.png) ![Ketchup](villager sprites/Ketchup_NH.png) ![Lolly](villager sprites/Lolly_NH.png) ![Murphy](villager sprites/Murphy_NH.png) ![Raymond](villager sprites/Raymond_NH_1.png)
+
 This is a simple population analysis project that examines specific aspects of the villagers found in _Animal Crossing: New Horizons_. The population includes any base-game villagers that a player can receive.
 This excludes collaboration villagers, such as the Sanrio villagers, as well as upcoming _The Legend of Zelda_ and _Splatoon_ villagers. Special visitors and shopkeeping villagers are also excluded (so no Tom Nook, Able Sisters, Flick, C.J., etc.).
 
