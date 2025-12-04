@@ -1,4 +1,6 @@
-# Animal Crossing Villager Analysis
+<img src="villager-sprites/NewHorizons.png" alt="NHLogo" width="500" />
+
+# Villager Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-1.5.3-blue?style=flat-square&logo=pandas&logoColor=white)
@@ -11,7 +13,14 @@
 ![Data Science](https://img.shields.io/badge/Data_Science-greenyellow?style=flat-square)
 
 <p align="center">
-  <img src="villager-sprites/NH-VillagerFace-Bob.png" alt="Bob" width="80" />
+  <img src="villager-sprites/NH-VillagerFace-Drake.png" alt="Drake" width="80" />
+  <img src="villager-sprites/NH-VillagerFace-Kabuki.png" alt="Kabuki" width="80" />
+  <img src="villager-sprites/NH-VillagerFace-Ken.png" alt="Ken" width="80" />
+  <img src="villager-sprites/NH-VillagerFace-Nana.png" alt="Nana" width="80" />
+  <img src="villager-sprites/NH-VillagerFace-Beau.png" alt="Beau" width="80" />
+  <img src="villager-sprites/NH-VillagerFace-Biskit.png" alt="Biskit" width="80" />
+  <img src="villager-sprites/NH-VillagerFace-Bunnie.png" alt="Bunnie" width="80" />
+  <img src="villager-sprites/NH-VillagerFace-Cheri.png" alt="Cheri" width="80" />
   <img src="villager-sprites/NH-VillagerFace-Ketchup.png" alt="Ketchup" width="80" />
   <img src="villager-sprites/NH-VillagerFace-Lolly.png" alt="Lolly" width="80" />
   <img src="villager-sprites/NH-VillagerFace-Murphy.png" alt="Murphy" width="80" />
@@ -27,13 +36,13 @@ The collected data includes villagers' names, species, genders, personalities, a
 So without further ado, let's look at some charts! <img src="villager-sprites/bob-dancing.gif" alt="Bob Dancing" width="80" />
 
 ---
-## Visualizations
+## Visualizations <img src="villager-sprites/Flora_hd.png" alt="Flora" width="60" />
 
 One thing to note is that since all the data collected is categorical, all charts created for this project are bar charts or variations of bar charts.
 
 ### Population Counts
 
-#### Gender
+#### Gender <img src="villager-sprites/Octavian_NH.png" alt="Octavian" width="30" /> <img src="villager-sprites/Marina_HD.png" alt="Marina" width="50" />
 
 First, we look at the breakdown of the population by gender.
 
@@ -41,7 +50,7 @@ First, we look at the breakdown of the population by gender.
 
 Surprisingly, the gender distribution of the villagers is not as even as I expected, with 17 more male villagers than female villagers. I anticipated a fairly even representation of both genders, but the data suggests otherwise.
 
-#### Species
+#### Species <img src="villager-sprites/Dizzy_NH.png" alt="Dizzy" width="40" /> <img src="villager-sprites/Henry_HD.png" alt="Henry" width="50" /> <img src="villager-sprites/Tangy_NH.png" alt="Tangy" width="30" />
 
 The next chart shows the number of villagers per animal species, ordered from the fewest to the most.
 
@@ -53,7 +62,7 @@ This pattern was tested and explained in a Bell Tree Forums post from 2020 by ct
 
 In practical terms, the more villagers there are in a species, the less likely you are to find a particular villager from that species. If you're looking for a specific cat, rabbit, or squirrel villager, I wish you luck!
 
-#### Personality
+#### Personality <img src="villager-sprites/Lyman_HD.png" alt="Lyman" width="60" />
 
 The next chart shows the distribution of villager personalities, ordered from the most to the fewest.
 
@@ -61,7 +70,7 @@ The next chart shows the distribution of villager personalities, ordered from th
 
 Personality distribution is more balanced across the eight types. The lazy personality has the most villagers (62), while sisterly (also known as "big sister") has the fewest (26). This makes sense, as sisterly is the newest personality, introduced in Animal Crossing: New Leaf. Interestingly, despite being the least common, each player in New Horizons starts with a sisterly villager.
 
-#### Hobby
+#### Hobby <img src="villager-sprites/Coco_NLa.png" alt="Coco" width="40" /> <img src="villager-sprites/Murphy_HD.png" alt="Murphy" width="70" />
 
 The next chart shows the distribution of villager hobbies, ordered from the most to the fewest.
 
@@ -71,7 +80,7 @@ Hobbies are distributed relatively evenly among villagers. Before collecting dat
 
 This concludes the charts showing counts of villager attributes. Next, we explore charts comparing species, personality, and hobbies by villager gender.
 
-### Comparison Charts
+### Comparison Charts <img src="villager-sprites/Petri_NH.png" alt="Petri" width="60" />
 
 #### Species Breakdown by Gender
 
@@ -101,7 +110,9 @@ This stacked bar chart compares villager hobbies by gender.
 ![hobby-gender-barplot.png](charts/hobby-gender-barplot.png)
 
 Nature, fitness, and play hobbies are predominantly male, while education, fashion, and music are predominantly female.
-Interestingly, there is only one male villager with the fashion hobby: Sasha. Introduced in the _New Horizons_ 2.0 update, he is my favorite villager and currently the only male fashion hobbyist.
+Interestingly, there is only one male villager with the fashion hobby: Sasha. Introduced in the _New Horizons_ 2.0 update, he is my favorite villager and currently the only male fashion hobbyist. 
+
+![Sasha](villager-sprites/Sasha_NH.png)
 
 #### Personality Breakdown by Hobby
 
@@ -112,7 +123,8 @@ The final chart shows the distribution of personalities by hobby.
 One interesting observation is that only the peppy personality includes at least one villager from every hobby. All other personalities have villagers with only four or five of the six hobbies.
 
 ---
-## Credits
+## Credits <img src="villager-sprites/Ione_NH.png" alt="Ione" width="60" /> <img src="villager-sprites/Shino_NH.png" alt="Shino" width="50" />
 
 **Author:** Caleb Picone (https://github.com/calebpicone)
-Images used were found on https://animalcrossing.fandom.com/wiki/Animal_Crossing_Wiki
+
+Villager images used were found on https://animalcrossing.fandom.com/wiki/Animal_Crossing_Wiki
