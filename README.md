@@ -80,7 +80,7 @@ Hobbies are distributed relatively evenly among villagers. Before collecting dat
 
 This concludes the charts showing counts of villager attributes. Next, we explore charts comparing species, personality, and hobbies by villager gender.
 
-### Comparison Charts <img src="villager-sprites/Petri_NH.png" alt="Petri" width="60" />
+### Comparison Charts <img src="villager-sprites/Static_HD.png" alt="Static" width="60" />
 
 #### Species Breakdown by Gender
 
@@ -121,6 +121,13 @@ The final chart shows the distribution of personalities by hobby.
 ![personality-hobby-barplot.png](charts/personality-hobby-barplot.png)
 
 One interesting observation is that only the peppy personality includes at least one villager from every hobby. All other personalities have villagers with only four or five of the six hobbies.
+
+---
+## Further Research <img src="villager-sprites/Petri_NH.png" alt="Petri" width="60" />
+
+Like mentioned above, all of the analyses in this project were done using categorical variables referencing the different aspect of the Animal Crossing villagers. For further research, I'd love to look more into some of the numbers related to the villagers.
+One aspect I was going to cover is the Nookazon bell/NMT price of each villager, but considering that its a fan-made, unregulated market, it would be difficult to actually conduct analysis on those values.
+If I can think of any numeric values that would be good for analysis than I'd love to do more research on it!
 
 ---
 ## Credits <img src="villager-sprites/Ione_NH.png" alt="Ione" width="60" /> <img src="villager-sprites/Shino_NH.png" alt="Shino" width="50" />
